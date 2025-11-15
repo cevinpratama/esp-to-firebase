@@ -2,6 +2,7 @@
 // mengimport library dan file yang di butuhkan
 #include <Arduino.h> //library arduino wajib
 #include <ESP8266WiFi.h> // library untuk menghubungkan esp8266 ke wifi
+// #include <WiFi.h>
 #include <Firebase_ESP_Client.h> // library untuk menghubungkan esp dengan firestore
 #include <addons/TokenHelper.h> // library untuk tambahan dari firebase untuk mengurus token authentikasi
 #include "secrets.h" // file untuk menyimpan kunci WiFi, dan konfigurasi firebase
