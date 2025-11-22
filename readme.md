@@ -1,4 +1,4 @@
-# 🚀 Project ESP ke Firebase (ESP32 & ESP8266)
+#  Project ESP ke Firebase (ESP32 & ESP8266)
 
 Repository ini berisi contoh kode dasar untuk menghubungkan mikrokontroler **ESP32** dan **ESP8266** ke **Firebase Realtime Database (RTDB)**.
 
@@ -6,7 +6,7 @@ Project ini dibuat menggunakan **Visual Studio Code** dengan ekstensi **Platform
 
 ---
 
-## ✨ Fitur
+##  Fitur
 
 * Menghubungkan ESP32/ESP8266 ke jaringan WiFi.
 * Melakukan autentikasi dan koneksi ke Firebase RTDB.
@@ -15,7 +15,7 @@ Project ini dibuat menggunakan **Visual Studio Code** dengan ekstensi **Platform
 
 ---
 
-## 🔧 Kebutuhan (Prerequisites)
+##  Kebutuhan (Prerequisites)
 
 Sebelum memulai, pastikan Anda memiliki:
 
